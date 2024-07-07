@@ -1291,7 +1291,7 @@ button {
     z-index: 1;
 }
 .modal-container-close {
-    display: none;
+    display: flex;
 }
 .modal {
     position: relative;
