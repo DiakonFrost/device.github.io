@@ -1,0 +1,13 @@
+<svg width="60.000000" height="60.000000" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs/>
+	<g opacity="0.000000">
+		<circle id="подложка" cx="30.000000" cy="30.000000" r="30.000000" fill="#C4C4C4" fill-opacity="1.000000"/>
+		<circle id="подложка" cx="30.000000" cy="30.000000" r="29.000000" stroke="#000000" stroke-opacity="0.600000" stroke-width="2.000000"/>
+	</g>
+	<circle id="Ellipse 22" cx="30.000000" cy="30.000000" r="30.000000" fill="#C4C4C4" fill-opacity="0"/>
+	<circle id="Ellipse 22" cx="30.000000" cy="30.000000" r="29.000000" stroke="#000000" stroke-opacity="0.600000" stroke-width="2.000000"/>
+	<path id="NEW" d="M17.77 24.81L19.91 24.81L19.91 35L18.05 35L13.62 28.59L13.55 28.59L13.55 35L11.4 35L11.4 24.81L13.29 24.81L17.68 31.22L17.77 31.22L17.77 24.81ZM31.37 35L24.49 35L24.49 24.81L31.35 24.81L31.35 26.59L26.64 26.59L26.64 29.01L30.99 29.01L30.99 30.79L26.64 30.79L26.64 33.22L31.37 33.22L31.37 35ZM40.25 35L38.15 35L35.24 24.81L37.59 24.81L39.28 31.89L39.36 31.89L41.22 24.81L43.24 24.81L45.09 31.9L45.18 31.9L46.87 24.81L49.22 24.81L46.3 35L44.21 35L42.26 28.34L42.19 28.34L40.25 35Z" fill="#000000" fill-opacity="0.600000" fill-rule="evenodd"/>
+</svg>
